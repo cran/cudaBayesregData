@@ -12,10 +12,10 @@
   It was obtained by applying the FSL/BET pre-processing tool to the original auditory data file.
 }
 \references{
-	\emph{SPM8 Manual}, John Ashburner et. al., Functional Imaging Laboratory,
+\emph{SPM8 Manual}, John Ashburner et. al., Functional Imaging Laboratory,
 	Institute of Neurology, UCL, London, (\url{http://www.fil.ion.ucl.ac.uk/spm/})
 
- \emph{FSL & FreeSurfer Course}, Oxford Centre for Functional Magnetic Resonance Imaging of the Brain (FMRIB), University of Oxford.
-  (\url{www.fmrib.ox.ac.uk/fsl}).
+\emph{FSL & FreeSurfer Course}, Oxford Centre for Functional Magnetic Resonance Imaging of the Brain (FMRIB), University of Oxford.
+(\url{www.fmrib.ox.ac.uk/fsl}).
 }
 \keyword{datasets}

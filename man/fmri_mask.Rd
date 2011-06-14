@@ -14,12 +14,12 @@
 	Similar preparation procedures for fMRI datasets are available in the SPM toolbox (\url{http://www.fil.ion.ucl.ac.uk/spm/}).
 }
 \references{
-Brandon Whitcher, Volker Schmid and Andrew Thornton, Package \bold{oro.nifti}:
- Rigorous - NIfTI Input / Output, 2010.
-
-S.M. Smith et.al., Advances in functional and structural MR image analysis and implementation as FSL. NeuroImage, 23(S1):208-219, 2004.
+S.M. Smith et.al.(2004), \emph{Advances in functional and structural MR image analysis and implementation as FSL}. NeuroImage, 23(S1):208-219.
 
 \emph{FSL & FreeSurfer Course}, Oxford Centre for Functional Magnetic Resonance Imaging of the Brain (FMRIB), University of Oxford.
   (\url{www.fmrib.ox.ac.uk/fsl}).
+  
+Brandon Whitcher, Volker Schmid and Andrew Thornton (2011), R package \pkg{oro.nifti}: Rigorous - NIfTI Input / Output, R package version 0.2.5,\cr
+\url{http://CRAN.R-project.org/package=oro.nifti}.  
 }
 \keyword{datasets}
