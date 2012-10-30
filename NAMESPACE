@@ -1,5 +1,3 @@
-# Default NAMESPACE created by R
-# Remove the previous line if you edit this file
+# This package exports nothing (it uses lazydata)
+# exportPattern(".")
 
-# Export all names
-exportPattern(".")
